@@ -44,7 +44,9 @@ This task is to:
 To speed up image pre-processing, 1024x1024 images were downsized. All images are categorized into two groups: NORMAL and PNEUMONIA.
 
 The Number of DataSet Images:
-![](Pics Proj4/Screen Shot 2020-12-16 at 7.36.10 AM.png)
+
+![](Pics%20Proj4/Screen Shot%202020-12-16%20at%207.36.10%20AM.png)
+
 
 
 
