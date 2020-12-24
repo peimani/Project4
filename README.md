@@ -69,6 +69,11 @@ Pretrained models are adapted for classifying `PNEUMONIA` or `NORMAL` problem sc
 -Comparison of Model Performances
 
 ## Conclusion
-Neural Networks can be challenging to design, but are able to read x-ray images and distinguish certain disorders. 
+Neural Networks can be challenging to design, but are able to read x-ray images and distinguish certain disorders. My recommendations:
+
+ * Choose the Kaggle Dataset since it is already separated into folders for easier data importation.
+ * Google Colab is a good place to write your code because it provides the extra power needed to run the models which are of large size and quality.
+ * Using PreTrained Networks will help tune a huge number of images in the training data.
+      -- As such, adapting a pretrained model that was trained on a larger dataset can lead to a stronger model when you have limited training data.
 
 ![](https://github.com/peimani/Project4/blob/master/Pics%20Proj4/Screen%20Shot%202020-12-16%20at%209.28.19%20AM.png)
